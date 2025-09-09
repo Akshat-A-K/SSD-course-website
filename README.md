@@ -27,7 +27,7 @@ This assignment involves building a web interface using **HTML**, **CSS**, and *
 
 Build a polished web page (e.g., course page, landing page, informational site) that:
 
-- Demonstrates clear semantic markup (using <header>, <nav>, <main>, <section>, <footer>).
+- Demonstrates clear semantic markup.
 - Utilizes CSS for layout, typography, theming, and responsiveness.
 - Includes at least one JavaScript-driven feature (e.g., toggling content, form handling, dynamic updates).
 
@@ -37,14 +37,10 @@ Build a polished web page (e.g., course page, landing page, informational site) 
 
 ```
 SSD-course-website
-┣ src/
-┃ ┣ newssd.html        # Main assignment webpage
-┃ ┣ styles.css         # Styling definitions
-┃ ┗ script.js          # Interactive JS code
-┣ README.md            # Assignment documentation (this file)
-┗ assets/
-   ┣ images/
-   ┗ other resources...
+┣ newssd.html        # Main assignment webpage
+┣ styles.css         # Styling definitions
+┣ script.js          # Interactive JS code
+┗ README.md            # Assignment documentation (this file)
 ```
 
 ---
@@ -76,13 +72,3 @@ SSD-course-website
 - If any external libraries or frameworks were used—please feel free to reach out for clarity or demo.
 
 ---
-
-##  Contact
-
-**Author:** [Your Name or Initials]  
-**Roll Number:** 2025201005  
-**Course:** CS6.302 – Software System Development (IIIT Hyderabad, Monsoon 2025)
-
----
-
-**Thank you for your evaluation!**
