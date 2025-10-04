@@ -57,6 +57,10 @@ SSD-course-website
 
 ---
 
+## Assumptions
+- The page is a static HTML/CSS/JS demo and requires no server-side components.
+- The deployed link relies on GitHub Pages and is expected to be reachable when online.
+
 ##  Usage
 
 - Navigate through the page sections using the header navigation.
